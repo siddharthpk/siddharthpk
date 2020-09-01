@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my GitHub profile!
 
 - 🌱 I’m currently learning ReactJS, Data Analytics using scikit, numpy
-- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio :devpost.com/siddharthpk)
+- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
 - 🤔 I’m looking for help with Full Stack Development
 - 📫 How to reach me: email - siddharthpathak@uvic.ca ; pathaksiddarth@hotmail.com
 - 😄 Pronouns: he/his/him
