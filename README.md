@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Siddharth%20Pathak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in//siddharthanilpathak/)
 [![Instagram Badge](https://img.shields.io/badge/@siddharth_pk-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siddharth_pk/)
 [![Facebook Badge](https://img.shields.io/badge/@siddharthpathak97-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/siddharthpathak97/)
+[![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=blue)
 
 Welcome to my [Github]!
 
@@ -15,8 +16,6 @@ Welcome to my [Github]!
 - 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
 - ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
-[![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=blue)
-[![website](https://img.shields.io/badge/Personal%20Website-siddharthpk.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthpk)](https://github.com/anuraghazra/github-readme-stats)
