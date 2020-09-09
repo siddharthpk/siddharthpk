@@ -26,7 +26,7 @@ Welcome to my Github!
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/c.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 
 #### Full-Stack Web Development
 
