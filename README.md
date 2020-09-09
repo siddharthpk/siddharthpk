@@ -10,7 +10,7 @@ Welcome to my Github!
 ### Some info about me:
 - 😄 Pronouns: he/his/him
 - 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
-- 🚀 I'm currently focused on fullstack development with Node.js, Express.js, React and MongoDB
+- 🚀 I'm currently focused on fullstack development MERN stack.
 - 🏢 I'm open to spring 2021 internship opportunities
 - 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
 - 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
