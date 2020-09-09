@@ -38,16 +38,9 @@ Welcome to my [Github]!
 
 #### Tools
 
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-#### Other
-
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
-<code><img height="48" src="https://www.chartjs.org/media/logo-title.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 
 <br />
