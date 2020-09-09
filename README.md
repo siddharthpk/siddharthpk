@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/@siddharth_pk-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siddharth_pk/)
 [![Facebook Badge](https://img.shields.io/badge/@siddharthpathak97-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/siddharthpathak97/)
 
-Welcome to my [Github][github link]! I'm a self-taught quant and full stack developer from Ottawa, Canada.
+Welcome to my [Github]!
 
 ### Some info about me:
 - 😄 Pronouns: he/his/him
