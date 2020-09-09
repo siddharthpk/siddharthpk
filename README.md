@@ -29,8 +29,8 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 - 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
 - 📝 Here is my [resume][resume link]
 
-[![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=green)][github link]
-[![website](https://img.shields.io/badge/Personal%20Website-siddharthpk.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)][website link]
+[![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=green)][https://github.com/siddharthpk]
+[![website](https://img.shields.io/badge/Personal%20Website-siddharthpk.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)][https://siddharthpk.me/]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthpk)](https://github.com/anuraghazra/github-readme-stats)
