@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Siddharth%20Pathak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in//siddharthanilpathak/)
 [![Instagram Badge](https://img.shields.io/badge/@siddharth_pk-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siddharth_pk/)
 [![Facebook Badge](https://img.shields.io/badge/@siddharthpathak97-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/siddharthpathak97/)
-[![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=blue)]
+[!profile views(https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=blue)]
 
 Welcome to my Github!
 
