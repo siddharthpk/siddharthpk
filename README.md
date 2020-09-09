@@ -1,11 +1,6 @@
 ### Hi there 👋, welcome to my GitHub profile!
 
-- 🌱 I’m currently learning ReactJS, Data Analytics using scikit, numpy
-- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
-- 🤔 I’m looking for help with Full Stack Development
-- 📫 How to reach me: email - siddharthpathak@uvic.ca ; pathaksiddarth@hotmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Performed Bungee jumping from 365ft!
+
 
 
 
@@ -19,15 +14,14 @@
 Welcome to my [Github][github link]! I'm a self-taught quant and full stack developer from Ottawa, Canada.
 
 ### Some info about me:
-
-- 📚 I'm a freshman studying Computer Science at the University of Waterloo
-- 🌎 I can speak English, French, and Spanish, and am learning Mandarin Chinese
-- 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
-- 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
-- 🏢 I'm open to fall 2021 internship opportunities
-- 👨🏻‍💻 You can find most of my projects here on [GitHub][github link]
+- 😄 Pronouns: he/his/him
+- 🌱 I’m currently learning ReactJS, Data Analytics using scikit, numpy
+- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
+- 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
+- 🚀 I'm currently focused on fullstack development with Node.js, Express.js, React and MongoDB
+- 🏢 I'm open to spring 2021 internship opportunities
 - 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
-- 📝 Here is my [resume][resume link]
+- ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
 [![profile views](https://komarev.com/ghpvc/?username=siddharthpk&style=flat-square&color=green)][https://github.com/siddharthpk]
 [![website](https://img.shields.io/badge/Personal%20Website-siddharthpk.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)][https://siddharthpk.me/]
