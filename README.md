@@ -5,7 +5,7 @@
 
 
 
-## Hi there, I'm [Sid][github link] 👋
+## Hi there, I'm [Sid][https://github.com/siddharthpk] 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Siddharth%20Pathak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in//siddharthanilpathak/)
 [![Instagram Badge](https://img.shields.io/badge/@siddharth_pk-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siddharth_pk/)
@@ -15,11 +15,10 @@ Welcome to my [Github]!
 
 ### Some info about me:
 - 😄 Pronouns: he/his/him
-- 🌱 I’m currently learning ReactJS, Data Analytics using scikit, numpy
-- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
 - 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
 - 🚀 I'm currently focused on fullstack development with Node.js, Express.js, React and MongoDB
 - 🏢 I'm open to spring 2021 internship opportunities
+- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
 - 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
 - ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
