@@ -1,19 +1,15 @@
 ## Hi there, I'm Sid👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Siddharth%20Pathak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in//siddharthanilpathak/)
-[![Instagram Badge](https://img.shields.io/badge/@siddharth_pk-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/siddharth_pk/)
-[![Facebook Badge](https://img.shields.io/badge/@siddharthpathak97-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/siddharthpathak97/)
-
 
 Welcome to my Github!
 
 ### Some info about me:
 - 😄 Pronouns: he/his/him
 - 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
-- 🚀 I'm currently focused on fullstack development with MERN stack.
-- 🏢 I'm open to spring 2021 internship opportunities
+- 🚀 I'm currently focused on fullstack development.
+- 🏢 I'm open to Summer 2021 internship opportunities
 - 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
-- 📫 You can reach me at: [pathaksiddarth@hotmail.com](mailto:pathaksiddarth@hotmail.com)
 - ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
 
