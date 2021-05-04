@@ -8,7 +8,7 @@ Welcome to my Github!
 - 😄 Pronouns: he/his/him
 - 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
 - 🚀 I'm currently focused on fullstack development.
-- 🏢 I'm open to Summer 2021 internship opportunities
+- 🏢 I'm open to Summer 2021/Fall 2021 internship opportunities
 - 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
 - ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
@@ -29,6 +29,7 @@ Welcome to my Github!
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 
 
