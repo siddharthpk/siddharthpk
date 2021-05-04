@@ -29,7 +29,7 @@ Welcome to my Github!
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 
 
