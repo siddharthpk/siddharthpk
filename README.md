@@ -13,8 +13,9 @@ Welcome to my Github!
 - ⚡ Fun fact: Performed Bungee jumping from 365ft!
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthpk)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### Languages and Tools:
 
