@@ -6,11 +6,11 @@ Welcome to my Github!
 
 ### Some info about me:
 - 😄 Pronouns: he/his/him
-- 📚 I'm a senior studying Computer Science & Mathematics at the University of Victoria
+- 📚 I'm a Computer Science & Mathematics studnet at the University of Victoria
 - 🚀 I'm currently focused on fullstack development.
 - 🏢 I'm open to Summer 2021/Fall 2021 internship opportunities
-- 👯 I’m looking to collaborate on Hackathons (Check out my DevPost portfolio : https://devpost.com/siddharthpk)
-- ⚡ Fun fact: Performed Bungee jumping from 365ft!
+- 👯 I’m looking to collaborate on new open source projects 
+- ⚡ Fun fact: I performed a Bungee jump from the 10th highest spot in the world at 365ft!
 
 
 <!--
