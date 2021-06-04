@@ -19,13 +19,7 @@ Welcome to my Github!
 
 ### Languages and Tools:
 
-#### Programming Languages:
-
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-
-#### Software Development
+#### Development Languages & Frameworks
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
