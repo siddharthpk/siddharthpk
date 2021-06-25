@@ -22,6 +22,7 @@ Welcome to my Github!
 #### Development Languages & Frameworks
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
@@ -42,6 +43,7 @@ Welcome to my Github!
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 <br />
 
