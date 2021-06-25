@@ -47,7 +47,7 @@ Welcome to my Github!
 
 #### Cloud Services & Containerization
 
-<code><img height="48" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 
 <br />
