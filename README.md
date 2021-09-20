@@ -51,6 +51,7 @@ Welcome to my Github!
 
 <code><img height="48" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="48" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="48" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 
 
