@@ -6,10 +6,10 @@ Welcome to my Github!
 
 ### Some info about me:
 - 😄  Pronouns: he/him
-- 📚  I'm a Computer Science & Mathematics undergrad at the University of Victoria
-- 🚀  I'm currently focused on fullstack development.
-- 🏢  I'm open to 2022 Full-time opportunities. 
-- 👯  I’m looking to collaborate on open source projects based around AR, Healthcare, Blockchain.
+- 📚  Computer Science & Mathematics undergrad at the University of Victoria
+- 🚀  Currently focused on Fullstack software development.
+- 🏢  Open to 2022 Full-time opportunities. 
+- 👯  Looking to collaborate on open source projects based around AR, Healthcare, Blockchain.
 - ⚡   Fun fact: I performed a Bungee jump from the 10th highest spot in the world at 365ft!
 
 
