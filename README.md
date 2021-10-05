@@ -8,7 +8,7 @@ Welcome to my Github!
 - 😄  Pronouns: he/him
 - 📚  I'm a Computer Science & Mathematics undergrad at the University of Victoria
 - 🚀  I'm currently focused on fullstack development.
-- 🏢  I'm open to Spring 2022 internship & Summer 2022 Full-time opportunities. 
+- 🏢  I'm open to 2022 Full-time opportunities. 
 - 👯  I’m looking to collaborate on open source projects based around AR, Healthcare, Blockchain.
 - ⚡   Fun fact: I performed a Bungee jump from the 10th highest spot in the world at 365ft!
 
