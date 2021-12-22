@@ -1,7 +1,5 @@
 ## Hi there, I'm Sid👋
 
-[![Linkedin Badge](https://img.shields.io/badge/Siddharth%20Pathak-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in//siddharthanilpathak/)
-
 Welcome to my Github!
 
 ### Some info about me:
