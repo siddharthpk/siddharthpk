@@ -5,7 +5,7 @@ Welcome to my Github!
 ### Some info about me:
 - 😄  Pronouns: he/him
 - 📚  Computer Science & Mathematics Undergrad at the University of Victoria
-- 🚀  Currently focused on Backend Development.
+- 🚀  Currently working @Realtor.com as a Software Engineer Co-op
 - 🏢  Open to 2022 Full-time opportunities. 
 - 👯  Looking to collaborate on open source projects based around AR-VR, Blockchain, Web Apps.
 - ⚡   Fun fact: I performed a Bungee jump from the 10th highest spot in the world at 365ft!
