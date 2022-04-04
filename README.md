@@ -39,7 +39,7 @@ Welcome to my Github!
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 
 #### Cloud Services & Containerization
 
