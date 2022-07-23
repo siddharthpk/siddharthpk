@@ -1,14 +1,14 @@
 ## Hi there, I'm Sid👋
 
-Welcome to my Github!
+Welcome to my Github profile!
 
 ### Some info about me:
 - 😄  Pronouns: he/him
 - 📚  Computer Science & Mathematics Undergrad at the University of Victoria
 - 🚀  Currently working @Realtor.com as a Software Engineer Co-op
 - 🏢  Open to 2022 Full-time opportunities. 
-- 👯  Looking to collaborate on open source projects based around AR-VR, Blockchain, Web Apps.
-- ⚡   Fun fact: I performed a Bungee jump from the 10th highest spot in the world at 365ft!
+- 👯  Looking to collaborate on open source projects based around AR-VR, Data Engineering, Web Apps.
+- ⚡   Fun fact: I performed a Bungee jump from 365ft!
 
 
 <!--
