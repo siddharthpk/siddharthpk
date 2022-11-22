@@ -5,10 +5,9 @@ Welcome to my Github profile!
 ### Some info about me:
 - 😄  Pronouns: he/him
 - 📚  Computer Science & Mathematics Undergrad at the University of Victoria
-- 🚀  Currently working @Realtor.com as a Software Engineer Co-op
-- 🏢  Open to 2022 Full-time opportunities. 
+- 🚀  Have worked at CGI Inc., CHEK Media Group & Realtor.com
+- 🏢  Open to Winter 2023 Full-time opportunities. 
 - 👯  Looking to collaborate on open source projects based around AR-VR, Data Engineering, Web Apps.
-- ⚡   Fun fact: I performed a Bungee jump from 365ft!
 
 
 <!--
