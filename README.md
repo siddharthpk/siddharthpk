@@ -6,7 +6,6 @@ Welcome to my Github profile!
 - 😄  Pronouns: he/him
 - 📚  Computer Science & Mathematics Undergrad at the University of Victoria
 - 🚀  Have worked at CGI Inc., CHEK Media Group & Realtor.com
-- 🏢  Open to Winter 2023 Full-time opportunities. 
 - 👯  Looking to collaborate on open source projects based around AR-VR, Data Engineering, Web Apps.
 
 
