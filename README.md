@@ -1,12 +1,12 @@
 ## Hi there, I'm Sid👋
 
-Welcome to my Github profile!
+Welcome to my GitHub profile!
 
 ### Some info about me:
 - 😄  Pronouns: he/him
 - 📚  Computer Science & Mathematics Undergrad at the University of Victoria
-- 🚀  Have worked at CGI Inc., CHEK Media Group & Realtor.com
-- 👯  Looking to collaborate on open source projects based around AR-VR, Data Engineering, Web Apps.
+- 🚀  Previously at CGI Group, CHEK Media Group & Realtor.com
+- 👯  Looking to collaborate on open-source projects based around AR-VR, Data Engineering, and Web Apps.
 
 
 <!--
